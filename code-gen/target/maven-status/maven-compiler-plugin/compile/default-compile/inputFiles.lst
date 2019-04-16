@@ -1,0 +1,14 @@
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/api/UserApi.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/model/Order.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/model/Pet.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/api/UserApiClient.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/api/PetApi.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/model/ModelApiResponse.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/api/StoreApi.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/model/Tag.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/configuration/ClientConfiguration.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/configuration/ApiKeyRequestInterceptor.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/model/Category.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/api/StoreApiClient.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/api/PetApiClient.java
+/Users/jeremy/code/microservice/code-gen/target/generated-sources/swagger/src/main/java/io/swagger/model/User.java
